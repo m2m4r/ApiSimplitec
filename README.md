@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/m2m4r/simplitec-front/blob/main/src/assets/logo.svg" alt="simpliTec" width="600"></a>
   <br>
-  Web App FrontEnd
+  Api
   <br>
 </h1>
 
